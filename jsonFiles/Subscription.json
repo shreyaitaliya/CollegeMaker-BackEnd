@@ -1,0 +1,12 @@
+[
+    {
+        "planName": "1 year",
+        "price": 650.00,
+        "duration": "Yearly"
+    },
+    {
+        "planName": "Cheapest",
+        "price": 1350.00,
+        "duration": "LifeTime"
+    }
+]       
